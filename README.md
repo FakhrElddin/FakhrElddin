@@ -28,3 +28,5 @@ A mobile marketplace for buying, selling, and exchanging used books, featuring R
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/fakhr-elddin-ayman-bb956a308/)
+
+[Email](mailto:fakhereldeanaymanq@gmail.com)
