@@ -1,32 +1,36 @@
 # Hi, I'm Fakhr-Elddin Ayman 👋
 
-Software Engineer and Flutter Developer currently interning at Code Plus. I build maintainable cross-platform mobile applications using Flutter, Dart, BLoC/Cubit, Clean Architecture, REST APIs, and Firebase.
+Junior Flutter Developer and Computer Science graduate currently interning at Code Plus. I build maintainable, testable cross-platform mobile applications with Flutter and Dart.
 
-## 🛠️ Tech Stack
-
-- Flutter & Dart
-- BLoC/Cubit, Clean Architecture, MVVM, Repository Pattern
-- REST APIs, Dio, Firebase, and Hive
+## Technical Focus
+- Flutter, Dart, Android, and iOS
+- BLoC/Cubit, Clean Architecture, MVVM, and Repository Pattern
+- REST APIs, Dio, Firebase, Hive, and SQLite
 - Dependency Injection with get_it and injectable
-- Git, GitHub, GitHub Actions, and CI/CD
-- Unit Testing and Widget Testing
+- Responsive UI, Git, GitHub Actions, and CI/CD
+- Unit Testing, Widget Testing, and Payment Gateway Integration
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [Cure – Home Care & Nursing Booking App](https://github.com/FakhrElddin/cure_task)
+### [Cure — Home Care & Nursing Booking App](https://github.com/FakhrElddin/cure_task)
+Authentication, service discovery, booking management, REST API integration, Hive offline caching, Firebase Cloud Messaging, and GitHub Actions.
 
-A home-care services application featuring authentication, service discovery, booking flows, offline caching with Hive, Firebase Cloud Messaging, and CI/CD with GitHub Actions.
+### [Daily Digest — News App](https://github.com/FakhrElddin/Daily_Digest_App)
+A responsive news application built with REST APIs, MVVM, Repository Pattern, and BLoC.
 
-### [Daily Digest – News App](https://github.com/FakhrElddin/Daily_Digest_App)
+### [Booki — Used Books Marketplace](https://github.com/FakhrElddin/Booki_App_Repo)
+A mobile marketplace for buying, selling, and exchanging used books, with REST API-driven listings and BLoC state management.
 
-A responsive news application built using REST APIs, MVVM, Repository Pattern, and BLoC to separate networking, business logic, and presentation.
+## Training & Certifications
+- ACC x Sprints Flutter Boot Camp — Jul 2026 - Present
+- Flutter Developer Diploma (100 hours), Route IT Training Center — Mar 2026 - Jun 2026
+- Flutter Advanced: BLoC & MVVM (16 hours), Udemy — Jun 2024 - Jul 2024
+- Complete Flutter & Dart Development (54 hours), Udemy — Nov 2023 - Jan 2024
+- Flutter Developer Trainee, ITI Summer Training — Sep 2023 - Oct 2023
 
-### [Booki – Used Books Marketplace](https://github.com/FakhrElddin/Booki_App_Repo)
+## Education
+- Bachelor of Computer Science, Fayoum University — May 2024
 
-A mobile marketplace for buying, selling, and exchanging used books, featuring REST API-driven listings and BLoC state management.
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/fakhr-elddin-ayman-bb956a308/)
-
-[Email](mailto:fakhereldeanaymanq@gmail.com)
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/fakhr-elddin-ayman-bb956a308/)
+- [Email](mailto:fakhereldeanaymanq@gmail.com)
